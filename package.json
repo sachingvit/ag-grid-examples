@@ -7,7 +7,7 @@
     "ag-grid-react": "^20.1.1",
     "flux": "^3.1.2",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "numeral": "^2.0.6",
     "react": "^16.4.2",
     "react-autosuggest": "^9.3.1",
